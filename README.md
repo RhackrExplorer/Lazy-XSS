@@ -1,22 +1,11 @@
 <h1 align="center">LazyXSS - Advanced Reflected XSS Scanner</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge" alt="Python 3.x" />
-  <img src="https://img.shields.io/github/license/iamunixtz/LazyXss?style=for-the-badge" alt="License" />
-  <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge" alt="Contributions Welcome" />
-  <br>
-  <img src="https://img.shields.io/github/stars/iamunixtz/LazyXss?style=for-the-badge" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/issues/iamunixtz/LazyXss?style=for-the-badge" alt="GitHub Issues" />
-  <br>
-  <img src="https://img.shields.io/badge/Made_in-Tanzania-orange?style=for-the-badge" alt="Made in Tanzania" />
-</p>
-
 LazyXSS is a powerful and efficient Python tool designed to automate the detection and confirmation of **reflected** Cross-Site Scripting (XSS) vulnerabilities in web applications. It meticulously tests **all GET parameters** found in provided URLs, supports scanning multiple targets from a file, and generates comprehensive, multi-page HTML reports with a modern UI.
 
 <div align="center">
 
 **LazyXSS in Action!**
-![image](https://github.com/user-attachments/assets/772131f1-e761-4a7e-bb78-f7f03540e957)
+
 
 </div>
 
@@ -168,10 +157,7 @@ Contributions are welcome! Feel free to submit issues or pull requests to help i
 
 If you find this tool helpful, consider supporting my work:
 
-<div align="center">
-<a href="https://buymeacoffee.com/iamunixtz" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=iamunixtz&button_colour=06b6d4&font_colour=0f172a&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;" ></a>
+174px !important;" ></a>
 </div>
 
 ---
-
-**Author:** Iamunixtz | [GitHub](https://github.com/iamunixtz) | [Twitter/X](https://x.com/iamunixtz)
