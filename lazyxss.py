@@ -146,7 +146,7 @@ def print_banner():
         "██║     ██╔══██║ ███╔╝    ╚██╔╝       ██╔██╗ ╚════██║╚════██║",
         "███████╗██║  ██║███████╗   ██║       ██╔╝ ██╗███████║███████║",
         "╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝       ╚═╝  ╚═╝╚══════╝╚══════╝",
-        "https://github.com/iamunixtz/LazyXss"
+        "https://github.com/RhackrExplorer/Lazy-XSS"
     ]
     max_line_length = max(len(line) for line in banner_lines)
     frame_width = max(max_line_length + 4, term_width - 4)  # Adjust frame to screen size
